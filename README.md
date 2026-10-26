@@ -15,3 +15,14 @@ README.md
 - Git tracks changes to files 
 - GitHub hosts repositories online.
 - Commits record changes in the project history.
+
+# # My Computing Goals
+
+- Programming and Coding
+- Web Developer
+- Computer Hardware Troubleshooting
+
+ # # My Favorite Technology
+
+- Artificial Intelligence(AI)
+- It helps people complete tasks faster and solve problems more easily. I also like it because it supports learning, creativity, and innovation in different fields. 
