@@ -25,4 +25,9 @@ README.md
  # # My Favorite Technology
 
 - Artificial Intelligence(AI)
-- It helps people complete tasks faster and solve problems more easily. I also like it because it supports learning, creativity, and innovation in different fields. 
+It helps people complete tasks faster and solve problems more easily. I also like it because it supports learning, creativity, and innovation in different fields.
+
+# # Reflection: "How does Git help you manage changes to your work?"
+
+Git helps me manage changes to my work by tracking updates, saving different versions of my files, and allowing me to review or restore previous versions when needed.
+
