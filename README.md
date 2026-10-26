@@ -1,2 +1,7 @@
-# My-First-Repository
-My first GitHub repository to Introduction to...
+# My First Repository
+**Name:** Valerie Faith Labra
+**Course:** Introduction to Computing
+
+**Learning Goal:** I am learning how Git and GitHub help people track changes and manage projects.
+
+**My First Commit:** This repository is my first activity in learning version control.
